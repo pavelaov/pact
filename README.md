@@ -1,6 +1,6 @@
 # PACT Artifact — Code
 
-Anonymous review artifact for **PACT** (publicly auditable key generation for distributed point functions). It contains the reference implementation and the twelve experiment drivers used for the evaluation. No author names, repository URL, or machine-specific absolute paths are included.
+Anonymous review artifact for **PACT** (publicly auditable key generation for distributed point functions). 
 
 ## Directory layout
 
